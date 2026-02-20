@@ -1,13 +1,31 @@
-.p1{
-    color:rgb(0, 0, 0)
+.h2 {
+    font-size: 36px;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    background-image: linear-gradient(to right, #f1f0ec, #ffae17);
 }
 
 
-a:hover{
-    color: hotpink;
+p {
+    font-size: 23px;
+    color: rgb(0, 0, 0);
 }
 
-.imagem1{
+h1 {
 
-    float: right"400px";
-    }
+    color: rgb(244, 145, 15);
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+.hover {
+    color: rgb(255, 0, 0);
+}
+.tr{
+    color: #ffae17;
+}
