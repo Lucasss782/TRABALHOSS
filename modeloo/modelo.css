@@ -1,0 +1,40 @@
+.verde{
+    color: rgb(0, 0, 0);
+        display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    border: solid 5px ;
+    background-color: rgb(255, 221, 157);
+}
+
+.texto{
+    font-family: sans-serif;
+    font-size: 18pt;
+
+}
+
+.titulo{
+    color: green;
+}
+
+p {
+    color: rgb(104, 7, 195);
+}
+
+body{
+    background-color: rgb(164, 164, 164);
+}
+
+.livro1{
+    position: relative;
+    left: 200px;
+    margin: 30px;   
+}
+
+iframe{
+    position: relative;
+    left: 200px;
+    margin: 30px;
+}
+
